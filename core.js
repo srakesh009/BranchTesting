@@ -1,6 +1,6 @@
 'use strict';
 
-//angular.module('comsApp.services', [])
+angular.module('comsApp.services', [])
 
 /**
  * @service Configuration
