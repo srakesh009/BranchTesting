@@ -2,7 +2,6 @@
 
 angular.module('comsApp.services', [])
  // changes made in first branch second commit
-    // changes made in second branch second commit
 /**
  * @service Configuration
  * environments are defined in environmentSettings.js
